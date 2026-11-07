@@ -23,6 +23,9 @@
 - [Best Roofing Contractor Il Huntley | Animo Roofing](https://local-business-guides.github.io/animo-roofing-huntley/best-roofing-contractor-il-huntley/): Best Roofing Contractor Il Huntley: use a simple checklist to compare roofing options in Huntley. Call Animo Roofing to discuss your roofing needs today.
 - [Top Rated Roofing Contractor Il Huntley | Animo Roofing](https://local-business-guides.github.io/animo-roofing-huntley/top-rated-roofing-contractor-il-huntley/): Top Rated Roofing Contractor Il Huntley: compare scope, communication, and fit for your home. Call Animo Roofing in Huntley to discuss your roof today.
 
+## Newsroom
+- [Animo Roofing Publishes New Guide to Roofing Contractor Huntley IL](https://local-business-guides.github.io/animo-roofing-huntley/news/2026-11-07-animo-roofing-publishes-new-guide-to-roofing/): Animo Roofing has published a guide to Roofing Contractor Huntley IL, along with a YouTube video, podcast episode and SoundCloud audio version. (2026-11-07)
+
 ## Pages
 - [Roofing Contractor in Huntley, Illinois](https://local-business-guides.github.io/animo-roofing-huntley/): Get a clear starting point for your roofing needs with Animo Roofing in Huntley. Call +1224-490-3800.
 - [About Animo Roofing in Huntley](https://local-business-guides.github.io/animo-roofing-huntley/about/): About Animo Roofing, Huntley.
@@ -30,4 +33,5 @@
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/animo-roofing-huntley/sitemap.xml)
+- [News RSS feed](https://local-business-guides.github.io/animo-roofing-huntley/news/rss.xml)
 - [Main resource site](https://animo-roofing-huntley.localbusinesses1.chatgpt.site)
